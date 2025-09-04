@@ -38,18 +38,24 @@ Cada seção contém links úteis para exemplos práticos.
   <a href="https://github.com/schanoski/clean_code_flutter">
     <img src="https://img.shields.io/badge/Clean%20Code-View%20Repo-blue?style=for-the-badge&logo=github" alt="Clean Code Repo" />
   </a>
+</p>
+<p>
   <a href="https://github.com/schanoski/arquitetura-mvc-flutter">
     <img src="https://img.shields.io/badge/MVC-View%20Repo-green?style=for-the-badge&logo=github" alt="MVC Repo" />
   </a>
+</p>
+<p>
   <a href="https://github.com/schanoski/Arquitetura-Limpa-Flutter">
     <img src="https://img.shields.io/badge/Clean%20Architecture-View%20Repo-purple?style=for-the-badge&logo=github" alt="Clean Architecture Repo" />
   </a>
+</p>
+<p>
   <a href="https://github.com/andershow09/mvvm-arch-flutter">
     <img src="https://img.shields.io/badge/MVVM-View%20Repo-orange?style=for-the-badge&logo=github" alt="MVVM Repo" />
   </a>
 </p>
 
-- Modularização
+- Modularização  
 - Separação de camadas: `view`, `provider/controller`, `repository`, `model`
 
 ---
