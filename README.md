@@ -1,6 +1,7 @@
 # 📚 Roadmap
 
-Este é um guia de estudos para o grupo de estudo de flutter Gralha Azul.
+Este é um guia de estudos para o grupo de estudo de Flutter **Gralha Azul**.  
+Cada seção contém links úteis para exemplos práticos.
 
 ---
 
@@ -32,10 +33,23 @@ Este é um guia de estudos para o grupo de estudo de flutter Gralha Azul.
 ---
 
 ## 🛠️ Arquitetura
-- **MVVM**
-- **Clean Architecture**
-- **Modularização**
-- **MVC**
+
+<p>
+  <a href="https://github.com/schanoski/clean_code_flutter">
+    <img src="https://img.shields.io/badge/Clean%20Code-View%20Repo-blue?style=for-the-badge&logo=github" alt="Clean Code Repo" />
+  </a>
+  <a href="https://github.com/schanoski/arquitetura-mvc-flutter">
+    <img src="https://img.shields.io/badge/MVC-View%20Repo-green?style=for-the-badge&logo=github" alt="MVC Repo" />
+  </a>
+  <a href="https://github.com/schanoski/Arquitetura-Limpa-Flutter">
+    <img src="https://img.shields.io/badge/Clean%20Architecture-View%20Repo-purple?style=for-the-badge&logo=github" alt="Clean Architecture Repo" />
+  </a>
+  <a href="https://github.com/andershow09/mvvm-arch-flutter">
+    <img src="https://img.shields.io/badge/MVVM-View%20Repo-orange?style=for-the-badge&logo=github" alt="MVVM Repo" />
+  </a>
+</p>
+
+- Modularização
 - Separação de camadas: `view`, `provider/controller`, `repository`, `model`
 
 ---
@@ -118,7 +132,6 @@ Este é um guia de estudos para o grupo de estudo de flutter Gralha Azul.
 ---
 
 ## 🧠 Extras
-- **Clean Code** e princípios **SOLID**
 - Conhecimento em **Design Patterns**
 - Prática de **TDD**
 
