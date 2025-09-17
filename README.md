@@ -70,10 +70,11 @@ Cada seção contém links úteis para exemplos práticos.
 ---
 
 ## 🧪 Testes
-- **Testes unitários** (`flutter_test`)
-- **Testes de widget**
-- **Testes de integração** (`integration_test`, Maestro)
-- Uso de **`mockito`** ou **`mocktail`**
+<p>
+  <a href="https://github.com/alexomantovani/automated_tests">
+    <img src="https://img.shields.io/badge/Automated%20Tests-View%20Repo-red?style=for-the-badge&logo=github" alt="Testes unitarios, widget e integracao" />
+  </a>
+</p>
 
 ---
 
