@@ -72,7 +72,7 @@ Cada seção contém links úteis para exemplos práticos.
 ## 🧪 Testes
 <p>
   <a href="https://github.com/alexomantovani/automated_tests">
-    <img src="https://img.shields.io/badge/Automated%20Tests-View%20Repo-red?style=for-the-badge&logo=github" alt="Testes unitarios, widget e integracao" />
+    <img src="https://img.shields.io/badge/Testes%20unit%C3%A1rios%2C%20widgets%20e%20integra%C3%A7%C3%A3o-View%20Repo-red?style=for-the-badge&logo=github" alt="Automated Tests Repo" />
   </a>
 </p>
 
